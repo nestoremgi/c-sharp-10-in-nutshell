@@ -1,0 +1,1 @@
+# There are two types of data members and function members those whose are instance members and those whose are class members, to access to instance member you need to create an instance with operator new, thing that you do not with class members and you only need name class and class member you need to access. to mark a class member you should static keyword.
